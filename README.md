@@ -1,4 +1,4 @@
-News_Classification/
+Document_Classification/
 │
 ├── data/
 │   ├── raw/                   # Raw data files (e.g., CSV, JSON)
